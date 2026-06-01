@@ -1,0 +1,12 @@
+{
+  "pack": "SpritesPack",
+  "source": "Sprites Pack (itch.io)",
+  "license": "check source",
+  "style": "atlas_collection",
+  "tokenSuggestions": {
+    "atlas.enemies": "atlases/enemies_spritesheet.png",
+    "atlas.icons": "atlases/icons_spritesheet.png"
+  },
+  "notes": "Large composite atlases \u2014 Enemies (1890\u00d71500), Icons (2070\u00d7880). Frame positions unknown; need UV atlas descriptor.",
+  "sourcefile": "spites_pack_1780342998387.zip"
+}

@@ -1,0 +1,15 @@
+{
+  "pack": "MiniTileset",
+  "source": "minitileset (itch.io)",
+  "license": "check source",
+  "nativeSize": [
+    160,
+    112
+  ],
+  "style": "mini_tileset_sheet",
+  "tokenSuggestions": {
+    "tile.mini.sheet": "tiles/mini/minitileset.png"
+  },
+  "notes": "160\u00d7112 mini tileset sheet with rooms, furniture, characters. Small sprites \u2014 individual tile slicing needs UV descriptor.",
+  "sourcefile": "minitileset_1780343852301.png"
+}

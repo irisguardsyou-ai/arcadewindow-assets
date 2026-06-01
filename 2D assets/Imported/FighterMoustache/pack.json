@@ -1,0 +1,24 @@
+{
+  "pack": "FighterMoustache",
+  "source": "Fighter Moustache Man",
+  "license": "check source",
+  "nativeFrameSize": [
+    200,
+    210
+  ],
+  "renderScale": 0.3,
+  "style": "cartoon_fighter",
+  "directional": false,
+  "characters": [
+    "moustache"
+  ],
+  "tokenSuggestions": {
+    "player.moustache": "characters/moustache/idle/east/frame00.png",
+    "player.walk.moustache.0": "characters/moustache/walk/east/frame00.png",
+    "player.walk.moustache.1": "characters/moustache/walk/east/frame01.png",
+    "player.walk.moustache.2": "characters/moustache/walk/east/frame02.png",
+    "player.walk.moustache.3": "characters/moustache/walk/east/frame14.png"
+  },
+  "notes": "Variable frame size per anim (~120-230px). renderScale 0.30 \u2248 63px. 10 animation sets. East-facing.",
+  "sourcefile": "FighterMoustacheMan_1780342998386.zip"
+}

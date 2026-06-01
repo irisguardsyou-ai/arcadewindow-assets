@@ -1,0 +1,24 @@
+{
+  "pack": "GBKungFuMan",
+  "source": "GB Kung Fu Man 4-way",
+  "license": "check source",
+  "nativeFrameSize": [
+    16,
+    24
+  ],
+  "renderScale": 3.0,
+  "style": "gameboy_4color",
+  "directional": true,
+  "characters": [
+    "kungfuman"
+  ],
+  "tokenSuggestions": {
+    "player.kungfuman": "characters/kungfuman/idle/east/frame00.png",
+    "player.walk.kungfuman.0": "characters/kungfuman/walk/east/frame00.png",
+    "player.walk.kungfuman.1": "characters/kungfuman/walk/east/frame01.png",
+    "player.walk.kungfuman.2": "characters/kungfuman/walk/east/frame02.png",
+    "player.walk.kungfuman.3": "characters/kungfuman/walk/east/frame03.png"
+  },
+  "notes": "4-way directional GB-style. East frames primary for side-scrollers.",
+  "sourcefile": "GB_Kung_Fu_Man_4way_1780341698634.zip"
+}

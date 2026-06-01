@@ -1,0 +1,15 @@
+{
+  "pack": "ShippingDocks",
+  "source": "Shipping Docks Area (itch.io)",
+  "license": "check source",
+  "nativeSize": [
+    864,
+    1120
+  ],
+  "style": "side_scroller_environment",
+  "tokenSuggestions": {
+    "sheet.env.shipping_docks": "sheets/environments/shipping_docks.png"
+  },
+  "notes": "864\u00d71120 shipping dock environment: rail cars, shipping containers (4 colours), cranes, fences, sky/city background layer. Side-scroller.",
+  "sourcefile": "SHIPPING_DOCKS_AREA_1780343852303.png"
+}

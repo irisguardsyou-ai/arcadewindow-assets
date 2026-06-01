@@ -1,0 +1,17 @@
+{
+  "pack": "FurnitureSVGPack",
+  "source": "furniture.7z (SVG icon set, game-icons style)",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "furniture_icons",
+  "itemCount": 551,
+  "status": "complete",
+  "tokenSuggestions": {
+    "item.furniture.*": "items/furniture/<name>.png"
+  },
+  "notes": "551/776 SVG furniture icons rasterized to 64x64 PNG. bag_cabinet_* naming."
+}

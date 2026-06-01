@@ -1,0 +1,23 @@
+{
+  "pack": "Xeno",
+  "source": "Xeno character (open art)",
+  "license": "check source",
+  "nativeFrameSize": [
+    100,
+    100
+  ],
+  "renderScale": 0.65,
+  "style": "sci_fi_alien",
+  "directional": false,
+  "characters": [
+    "xeno"
+  ],
+  "tokenSuggestions": {
+    "player.walk.xeno.1": "characters/xeno/walk/east/frame01.png",
+    "player.xeno": "characters/xeno/walk/east/frame01.png",
+    "player.walk.xeno.2": "characters/xeno/walk/east/frame02.png",
+    "player.walk.xeno.3": "characters/xeno/walk/east/frame04.png"
+  },
+  "notes": "4 walk frames + 16 fight frames. East-facing. 100\u00d7100px per frame.",
+  "sourcefile": "Xeno_1780342998385.zip"
+}

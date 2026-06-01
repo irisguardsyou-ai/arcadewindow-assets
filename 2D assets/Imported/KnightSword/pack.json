@@ -1,0 +1,24 @@
+{
+  "pack": "KnightSword",
+  "source": "Knight & Sword",
+  "license": "check source",
+  "nativeFrameSize": [
+    854,
+    480
+  ],
+  "renderScale": 0.08,
+  "style": "cinematic_dark_fantasy",
+  "directional": false,
+  "characters": [
+    "knight"
+  ],
+  "tokenSuggestions": {
+    "player.knight": "characters/knight/run/east/frame00.png",
+    "player.walk.knight.0": "characters/knight/run/east/frame00.png",
+    "player.walk.knight.1": "characters/knight/run/east/frame01.png",
+    "player.walk.knight.2": "characters/knight/run/east/frame02.png",
+    "player.walk.knight.3": "characters/knight/run/east/frame03.png"
+  },
+  "notes": "Cinematic 854\u00d7480 frames. renderScale 0.08 \u2248 38px. Side-view east-facing.",
+  "sourcefile": "Knight&amp;Sword_1780342402639.zip"
+}

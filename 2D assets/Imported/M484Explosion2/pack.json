@@ -1,0 +1,16 @@
+{
+  "pack": "M484Explosion2",
+  "source": "M484 Games Explosion Set 2 (CC0/Public Domain)",
+  "license": "CC0",
+  "nativeFrameSize": [
+    30,
+    30
+  ],
+  "renderScale": 1.0,
+  "style": "explosion_sheet",
+  "tokenSuggestions": {
+    "effect.explosion.m484.*": "effects/explosions/<name>.png"
+  },
+  "notes": "850\u00d7850 sheet: mushroom clouds (5 colours), orb bursts, planet explosions. 30\u00d730 and 16\u00d716 frame grids. CC0 \u2014 no credit required.",
+  "sourcefile": "M484ExplosionSet2_1780344639547.png"
+}

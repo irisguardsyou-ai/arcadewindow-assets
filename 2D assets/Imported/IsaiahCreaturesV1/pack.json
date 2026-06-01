@@ -1,0 +1,17 @@
+{
+  "pack": "IsaiahCreaturesV1",
+  "source": "isaiah658's Pixel Pack #2 v1.0",
+  "license": "check source",
+  "style": "creature_sprites",
+  "tokenSuggestions": {
+    "creature.isaiah658s_pixel_pack_#2": "characters/creatures/isaiah658's_Pixel_Pack_#2.png",
+    "creature.birdee": "characters/creatures/Birdee.png",
+    "creature.burrlock": "characters/creatures/Burrlock.png",
+    "creature.cacaburr": "characters/creatures/Cacaburr.png",
+    "creature.chickadee": "characters/creatures/Chickadee.png",
+    "creature.howl": "characters/creatures/Howl.png",
+    "creature.ruffalo": "characters/creatures/Ruffalo.png"
+  },
+  "notes": "6 zoonami creature sprites (Birdee, Burrlock, Cacaburr, Chickadee, Howl, Ruffalo) + full sheet.",
+  "sourcefile": "Version_1.0_isaiah658&#039;s_Pixel_Pack_#2_1780343852300.zip"
+}

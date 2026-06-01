@@ -1,0 +1,11 @@
+{
+  "pack": "ArcadeSet",
+  "source": "arcadeset (itch.io)",
+  "license": "check source",
+  "style": "top_down_tiles",
+  "tokenSuggestions": {
+    "tile.arcade.*": "tiles/arcade/<name>.png"
+  },
+  "notes": "30 arcade tiles: top-down, asteroid, carpet, bar variants. Good for retro top-down shooters.",
+  "sourcefile": "arcadeset_1780344639546.zip"
+}

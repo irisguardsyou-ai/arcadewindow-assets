@@ -1,0 +1,26 @@
+{
+  "pack": "IsometricPlantPack",
+  "source": "Isometric Plant Pack",
+  "license": "check source (includes .blend source)",
+  "nativeFrameSize": [
+    128,
+    64
+  ],
+  "isoGridSize": [
+    128,
+    64
+  ],
+  "style": "isometric_nature",
+  "itemCount": 94,
+  "tokenSuggestions": {
+    "tile.plant.weed": "tiles/plants/weed5.png",
+    "tile.plant.shrub": "tiles/plants/shrub5.png",
+    "tile.plant.palm": "tiles/plants/palm01.png",
+    "tile.plant.bamboo": "tiles/plants/bamboo01.png",
+    "tile.plant.grasses": "tiles/plants/grasses02.png",
+    "tile.plant.tropical": "tiles/plants/tropical01.png",
+    "tile.plant.default": "tiles/plants/shrub1-01.png"
+  },
+  "notes": "94 isometric plant PNGs. 128\u00d764 tiles \u2014 perfect for PresetI iso renderer. Palms, bamboo, shrubs, tropical, weeds, grasses. Also 256\u00d7128 2\u00d7 versions.",
+  "sourcefile": "isometric-plant-pack_1780342998416.zip"
+}

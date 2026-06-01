@@ -1,0 +1,16 @@
+{
+  "pack": "SideBlasterGFX",
+  "source": "Side Blaster GFX (itch.io)",
+  "license": "check source",
+  "nativeFrameSize": [
+    null,
+    null
+  ],
+  "style": "complete_shooter_gfx",
+  "tokenSuggestions": {
+    "fx.side_blaster.*": "effects/side_blaster/images/<name>.png",
+    "ui.side_blaster.font.*": "effects/side_blaster/fonts/<name>.png"
+  },
+  "notes": "315 PNGs: shooter images (bullets, ships, explosions) + HUD fonts/counters.",
+  "sourcefile": "Side_Blaster_GFX_1780344639550.zip"
+}

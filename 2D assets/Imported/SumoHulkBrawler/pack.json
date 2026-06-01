@@ -1,0 +1,24 @@
+{
+  "pack": "SumoHulkBrawler",
+  "source": "Sumo Hulk Brawler by Eris",
+  "license": "check source",
+  "nativeFrameSize": [
+    96,
+    144
+  ],
+  "renderScale": 0.65,
+  "style": "cartoon_brawler",
+  "directional": false,
+  "characters": [
+    "sumohulk"
+  ],
+  "tokenSuggestions": {
+    "player.sumohulk": "characters/sumohulk/idle/east/frame00.png",
+    "player.walk.sumohulk.0": "characters/sumohulk/walk/east/frame00.png",
+    "player.walk.sumohulk.1": "characters/sumohulk/walk/east/frame01.png",
+    "player.walk.sumohulk.2": "characters/sumohulk/walk/east/frame02.png",
+    "player.walk.sumohulk.3": "characters/sumohulk/walk/east/frame03.png"
+  },
+  "notes": "GIF frames extracted at 4\u00d7 scale.",
+  "sourcefile": "SumoHulkBrawler_byEris_1780342402639.zip"
+}

@@ -1,0 +1,15 @@
+{
+  "pack": "FurnitureAndWalls",
+  "source": "Isometric Furniture & Walls spritesheet",
+  "license": "check source",
+  "nativeSize": [
+    320,
+    960
+  ],
+  "style": "isometric_interior",
+  "tokenSuggestions": {
+    "tile.furniture.sheet": "tiles/furniture/furnitureandwalls.png"
+  },
+  "notes": "320\u00d7960 isometric interior objects (beds, tables, barrels, rugs, walls). Full spritesheet \u2014 individual item slicing needs UV descriptor.",
+  "sourcefile": "furnitureandwalls_1780342998388.png"
+}

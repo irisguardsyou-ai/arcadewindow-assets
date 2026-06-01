@@ -1,0 +1,18 @@
+{
+  "pack": "SpaceGameShips",
+  "source": "spacegame (itch.io)",
+  "license": "check source",
+  "nativeFrameSize": [
+    null,
+    null
+  ],
+  "style": "top_down_shooter",
+  "tokenSuggestions": {
+    "enemy.enemyship1": "characters/ships/EnemyShip1.png",
+    "enemy.enemyship3": "characters/ships/EnemyShip3.png",
+    "enemy.enemyship2": "characters/ships/EnemyShip2.png",
+    "player.ship.hero": "characters/ships/Starship.png"
+  },
+  "notes": "5 space ship sprites: hero ship, Starship, EnemyShip1-3. Top-down space shooter.",
+  "sourcefile": "spacegame_1780344639550.zip"
+}

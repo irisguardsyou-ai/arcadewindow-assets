@@ -1,0 +1,15 @@
+{
+  "pack": "CityMega",
+  "source": "City Mega Sheet (itch.io)",
+  "license": "check source",
+  "nativeSize": [
+    1952,
+    2800
+  ],
+  "style": "side_scroller_city_mega",
+  "tokenSuggestions": {
+    "sheet.env.city_mega": "sheets/environments/city_mega.png"
+  },
+  "notes": "1952\u00d72800 massive city sheet: player/NPC chars, furniture, vehicles, shop interiors (health centre, cafe, convenience store), buildings, city BG, sky BG. Side-scroller. Large composite \u2014 needs UV atlas.",
+  "sourcefile": "CITY_MEGA_1780343852303.png"
+}

@@ -1,0 +1,39 @@
+{
+  "pack": "RawCels8Dir2",
+  "source": "Raw Cels 8 Directions",
+  "license": "check source",
+  "nativeFrameSize": [
+    260,
+    260
+  ],
+  "renderScale": 0.3,
+  "style": "hand_drawn_8dir",
+  "directional": true,
+  "directions": [
+    "south",
+    "southeast",
+    "east",
+    "northeast",
+    "north",
+    "northwest",
+    "west",
+    "southwest"
+  ],
+  "characters": [
+    "rawcel2"
+  ],
+  "frameManifestRequired": true,
+  "frameCounts": {
+    "south": 693,
+    "southeast": 694,
+    "east": 694,
+    "northeast": 694,
+    "north": 694,
+    "northwest": 694,
+    "west": 694,
+    "southwest": 694
+  },
+  "tokenSuggestions": {},
+  "notes": "~694 frames per direction. All animations concatenated, no labels. Needs frame-manifest.json before tokens can be generated.",
+  "sourcefile": "raw_cels_8_directions_1780342402641.zip"
+}

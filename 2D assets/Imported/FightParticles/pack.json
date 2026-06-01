@@ -1,0 +1,12 @@
+{
+  "pack": "FightParticles",
+  "source": "Ultimate Particle Pack for Casual Fight Game",
+  "license": "check source",
+  "style": "fight_effects",
+  "tokenSuggestions": {
+    "effect.particles": "particles/particles.png",
+    "effect.punch": "particles/punches.png"
+  },
+  "notes": "Two atlases. Frame positions need a UV atlas descriptor for animation.",
+  "sourcefile": "ultimate_particle_pack_for_casual_fight_game_(1)_1780342402640.zip"
+}

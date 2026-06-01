@@ -1,0 +1,29 @@
+{
+  "pack": "DungeonCrawlFull",
+  "source": "Dungeon Crawl Stone Soup (CC0)",
+  "license": "CC0 \u2014 see LICENSE.txt",
+  "nativeFrameSize": [
+    32,
+    32
+  ],
+  "renderScale": 1.5,
+  "style": "roguelike_dungeon",
+  "categoryCounts": {
+    "dungeon": 1483,
+    "effect": 238,
+    "emissaries": 12,
+    "gui": 500,
+    "item": 957,
+    "misc": 582,
+    "monster": 1282,
+    "player": 975
+  },
+  "tokenSuggestions": {
+    "effect.dcss.default": "tiles/dcss/effect/acid_venom.png",
+    "collectible.dcss.default": "tiles/dcss/item/amulet/artefact/urand_air_new.png",
+    "enemy.dcss.default": "tiles/dcss/monster/aberration/unseen_horror_new.png",
+    "player.dcss.default": "tiles/dcss/player/barding/black_knight.png"
+  },
+  "notes": "Classic roguelike tileset. CC0 license. 32\u00d732 sprites across 8 categories. renderScale 1.5 \u2192 48px display.",
+  "sourcefile": "Dungeon_Crawl_Stone_Soup_Full_1780342998418.zip"
+}

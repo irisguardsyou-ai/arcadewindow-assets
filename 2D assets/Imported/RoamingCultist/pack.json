@@ -1,0 +1,17 @@
+{
+  "pack": "RoamingCultist",
+  "source": "Roaming Cultist sprite",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "topdown_enemy",
+  "directional": false,
+  "tokenSuggestions": {
+    "enemy.cultist": "characters/cultist/walk/south/frame00.png"
+  },
+  "notes": "3\u00d73 grid 192\u00d7192 \u2192 9 frames @ 64\u00d764. Top-down walking/idle cycle.",
+  "sourcefile": "roaming_cultist_1780342998417.png"
+}

@@ -1,0 +1,17 @@
+{
+  "pack": "ActionItemIcons",
+  "source": "actions-and-items-icons (itch.io)",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "icons",
+  "itemCount": 70,
+  "tokenSuggestions": {
+    "icon.action.*": "items/action_icons/<name>.png"
+  },
+  "notes": "70 combat/action icons (arrows, blocks, bombs, chains). Individual PNGs named by action type.",
+  "sourcefile": "actions-and-items-icons_1780343852298.zip"
+}

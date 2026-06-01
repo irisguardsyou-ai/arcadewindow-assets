@@ -1,0 +1,21 @@
+{
+  "pack": "IsoTilesSingle",
+  "source": "Grassland Isometric Tiles (individual)",
+  "license": "check source",
+  "nativeFrameSize": [
+    128,
+    128
+  ],
+  "isoGridSize": [
+    128,
+    64
+  ],
+  "style": "isometric_grassland",
+  "tokenSuggestions": {
+    "tile.iso.ground": "tiles/isometric/ground_128x64_shaded/ground_128x64_shaded-0.png",
+    "tile.iso.ground.cloud": "tiles/isometric/ground_128x64_cloudy/ground_128x64_cloudy-0.png",
+    "tile.iso.wall": "tiles/isometric/walls_1_128x64_shaded/walls_1_128x64_shaded-0.png"
+  },
+  "notes": "1232 individual iso tiles. Ground + 3 wall types, shaded + cloudy variants. 128\u00d764 iso grid footprint, 128\u00d7128 PNG (extra 64px height for wall depth). Directly usable in PresetI iso renderer.",
+  "sourcefile": "tiles_single_1780342998408.zip"
+}

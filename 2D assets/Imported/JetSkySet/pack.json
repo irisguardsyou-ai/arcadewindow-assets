@@ -1,0 +1,13 @@
+{
+  "pack": "JetSkySet",
+  "source": "jetskyspritesandtileset (OGA)",
+  "license": "OGA / check source",
+  "style": "side_scroller_beach",
+  "tokenSuggestions": {
+    "tile.beach.main": "tiles/beach/beach_tileset.png",
+    "player.bomber": "characters/jetsky/bomber_player.png",
+    "player.chopper": "tiles/beach/chopper_world.png"
+  },
+  "notes": "Beach tileset + Bomber & Chopper player sprites + ability icons. Side-scroller.",
+  "sourcefile": "jetskyspritesandtileset_1780344639550.zip"
+}

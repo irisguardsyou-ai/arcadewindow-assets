@@ -1,0 +1,13 @@
+{
+  "pack": "UltraHQPlanets",
+  "source": "UltraHQ (itch.io)",
+  "license": "check source",
+  "style": "space_background",
+  "tokenSuggestions": {
+    "bg.planet.beta_6": "backgrounds/space/Beta 6.png",
+    "bg.planet.noshadow": "backgrounds/space/noShadow.png",
+    "bg.planet.planet1": "backgrounds/space/planet1.png"
+  },
+  "notes": "High-quality planet sprites (planet1, Beta 6, noShadow variant). Great for space game BGs.",
+  "sourcefile": "UltraHQ_1780344639551.zip"
+}

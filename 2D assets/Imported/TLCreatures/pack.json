@@ -1,0 +1,21 @@
+{
+  "pack": "TLCreatures",
+  "source": "TL Creatures spritesheet",
+  "license": "check source",
+  "nativeFrameSize": [
+    32,
+    32
+  ],
+  "renderScale": 1.5,
+  "style": "cute_creatures",
+  "gridLayout": "8x11",
+  "tokenSuggestions": {
+    "enemy.worm": "characters/worm/idle/none/frame00.png",
+    "enemy.balloon": "characters/balloon/idle/none/frame00.png",
+    "enemy.robot": "characters/robot/idle/none/frame00.png",
+    "enemy.frog": "characters/frog/idle/none/frame00.png",
+    "enemy.owl": "characters/owl/idle/none/frame00.png"
+  },
+  "notes": "8\u00d711 grid of 32\u00d732 cute creature sprites. 8 creature types, each in multiple color variants.",
+  "sourcefile": "TL_Creatures_1780342998418.png"
+}

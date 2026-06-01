@@ -1,0 +1,11 @@
+{
+  "pack": "SnowTilesets",
+  "source": "Snow Tilesets (open art)",
+  "license": "check CREDITS.txt",
+  "style": "winter_environment",
+  "tokenSuggestions": {
+    "tile.ground.snow": "tiles/snow/tiled_snowplains_2x2.png"
+  },
+  "notes": "8 large tileset sheets. Winter/snow terrain. Mix of 512\u20131024px sheets. Frame slicing needed for individual tiles.",
+  "sourcefile": "snow_tilesets_1780342998388.zip"
+}

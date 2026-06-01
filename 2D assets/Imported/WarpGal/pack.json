@@ -1,0 +1,22 @@
+{
+  "pack": "WarpGal",
+  "source": "WarpGal (OpenGameArt, Emcee Flesher, OGA-BY 3.0+)",
+  "license": "OGA-BY 3.0+",
+  "nativeFrameSize": [
+    40,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "platform_character_complete",
+  "tokenSuggestions": {
+    "effect.warpgal.projectile_sheet": "characters/warpgal/shooties-alpha.png",
+    "effect.warpgal.projectile_big": "characters/warpgal/shooties-big.png",
+    "player.warpgal.anim_sheet": "characters/warpgal/warpgal-anim-sheet-alpha.png",
+    "player.warpgal.run_reference": "characters/warpgal/warpgal-run-3-aim-big.png",
+    "player.warpgal.shoot_sheet": "characters/warpgal/warpgal-shooting-sheet-alpha.png",
+    "player.warpgal.stand_reference": "characters/warpgal/warpgal-stand-aim-big.png",
+    "player.warpgal.*": "characters/warpgal/<name>.png"
+  },
+  "notes": "Full platform character: idle\u00d73, run, jump begin/mid/end, fall (anim sheet 576\u00d7432); stand/crouch/run\u00d710/wall-cling shooting sheet (720\u00d7912); projectile strip 5-frame. 40\u00d748px frames. OGA-BY 3.0+ \u2014 credit required.",
+  "sourcefile": "shooties-alpha_1780344639549.png + shooties-big_1780344639548.png + warpgal-anim-sheet-alpha_1780344639549.png + warpgal-run-3-aim-big_1780344639547.png + warpgal-shooting-sheet-alpha_1780344639549.png + warpgal-stand-aim-big_1780344639548.png"
+}

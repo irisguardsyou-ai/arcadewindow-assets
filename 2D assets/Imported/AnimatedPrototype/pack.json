@@ -1,0 +1,31 @@
+{
+  "pack": "AnimatedPrototype",
+  "source": "Animated Prototype Character",
+  "license": "check License.txt",
+  "nativeFrameSize": [
+    512,
+    512
+  ],
+  "renderScale": 0.12,
+  "style": "modern_2d_sidescroller",
+  "directional": false,
+  "characters": [
+    "base",
+    "pistol",
+    "rifle",
+    "sword"
+  ],
+  "tokenSuggestions": {
+    "player.prototype": "characters/base/idle/east/frame00.png",
+    "player.walk.prototype.0": "characters/base/walk/east/frame00.png",
+    "player.walk.prototype.1": "characters/base/walk/east/frame01.png",
+    "player.walk.prototype.2": "characters/base/walk/east/frame02.png",
+    "player.walk.prototype.3": "characters/base/walk/east/frame03.png",
+    "player.walk.prototype.4": "characters/base/walk/east/frame04.png",
+    "player.walk.prototype.5": "characters/base/walk/east/frame05.png",
+    "player.walk.prototype.6": "characters/base/walk/east/frame06.png",
+    "player.walk.prototype.7": "characters/base/walk/east/frame07.png"
+  },
+  "notes": "East-facing only. 4 weapon variants \u00d7 9 anims. renderScale 0.12 \u2248 62px.",
+  "sourcefile": "animated_prototype_character_1780342402638.zip"
+}

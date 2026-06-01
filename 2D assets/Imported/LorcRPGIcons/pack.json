@@ -1,0 +1,16 @@
+{
+  "pack": "LorcRPGIcons",
+  "source": "789 Lorc RPG Icons (CC0, game-icons.net style)",
+  "license": "CC0",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "rpg_icons",
+  "itemCount": 789,
+  "tokenSuggestions": {
+    "icon.lorc.*": "items/lorc_icons/<Icon.N_NN.png>"
+  },
+  "notes": "789 individual icon PNGs. Great for collectibles, items, abilities. Add specific token aliases (e.g. collectible.sword) as needed."
+}

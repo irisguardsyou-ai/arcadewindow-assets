@@ -1,0 +1,11 @@
+{
+  "pack": "GrasslandSheets",
+  "source": "Grassland Isometric Sheets",
+  "license": "check source",
+  "style": "isometric_grassland",
+  "tokenSuggestions": {
+    "tile.iso.sheet.ground": "tiles/isometric/sheets/sheet_walls_3_128x64_shaded.png"
+  },
+  "notes": "16 large composite tileset sheets (up to 3072\u00d73840). Companion to IsoTilesSingle \u2014 same content as sheets vs individual files.",
+  "sourcefile": "grassland_sheets_1780342998416.zip"
+}

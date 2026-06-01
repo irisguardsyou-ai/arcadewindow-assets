@@ -1,0 +1,15 @@
+{
+  "pack": "FurnitureNobles",
+  "source": "Furniture for Nobles (RPG Maker MV/MZ)",
+  "license": "check source",
+  "nativeSize": [
+    768,
+    768
+  ],
+  "style": "rpg_maker_interior",
+  "tokenSuggestions": {
+    "tile.furniture.nobles.sheet": "tiles/furniture_nobles/furniturefornobles_mv_mz.png"
+  },
+  "notes": "768\u00d7768 RPG Maker MV/MZ noble furniture sheet: chairs, beds, bookshelves, mirrors, clocks. High-quality Victorian/manor aesthetic. 48\u00d748 grid assumed.",
+  "sourcefile": "furniturefornobles_mv_mz_1780343852301.png"
+}

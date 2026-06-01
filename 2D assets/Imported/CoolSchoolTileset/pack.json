@@ -1,0 +1,16 @@
+{
+  "pack": "CoolSchoolTileset",
+  "source": "CoolSchool Tileset 48px (CC0, itch.io)",
+  "license": "CC0",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.5,
+  "style": "rpg_maker_tileset",
+  "tokenSuggestions": {
+    "tile.school.*": "tiles/school/<name>.png"
+  },
+  "notes": "School/classroom tileset. A2 (auto-tiles), A4 (walls), B (objects). CC0. RPG Maker MV/MZ format.",
+  "sourcefile": "coolschool_tileset_48px_1780343852301.zip"
+}

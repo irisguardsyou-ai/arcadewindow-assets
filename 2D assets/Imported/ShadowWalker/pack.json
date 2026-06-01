@@ -1,0 +1,23 @@
+{
+  "pack": "ShadowWalker",
+  "source": "Walking2 side-view character",
+  "license": "check source",
+  "nativeFrameSize": [
+    80,
+    115
+  ],
+  "renderScale": 0.55,
+  "style": "dark_silhouette",
+  "directional": false,
+  "tokenSuggestions": {
+    "player.shadow": "characters/shadow_walker/walk/east/frame00.png",
+    "player.walk.shadow.0": "characters/shadow_walker/walk/east/frame00.png",
+    "player.walk.shadow.1": "characters/shadow_walker/walk/east/frame01.png",
+    "player.walk.shadow.2": "characters/shadow_walker/walk/east/frame02.png",
+    "player.walk.shadow.3": "characters/shadow_walker/walk/east/frame03.png",
+    "player.walk.shadow.4": "characters/shadow_walker/walk/east/frame04.png",
+    "player.walk.shadow.5": "characters/shadow_walker/walk/east/frame05.png"
+  },
+  "notes": "6-frame side-view dark/shadow character strip. East-facing.",
+  "sourcefile": "walking2_1780342998417.png"
+}

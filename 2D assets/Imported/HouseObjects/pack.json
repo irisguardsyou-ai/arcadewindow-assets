@@ -1,0 +1,15 @@
+{
+  "pack": "HouseObjects",
+  "source": "House Objects 1 Revised (itch.io)",
+  "license": "check source",
+  "nativeSize": [
+    192,
+    192
+  ],
+  "style": "top_down_interior",
+  "tokenSuggestions": {
+    "tile.house.objects.sheet": "tiles/house_objects/house_objects_revised.png"
+  },
+  "notes": "192\u00d7192 house object sheet: cabinets, shelves, beds, doors. Top-down RPG-style interior props.",
+  "sourcefile": "House_Objects_1_Revised_1780343852302.png"
+}

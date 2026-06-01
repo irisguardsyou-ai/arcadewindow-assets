@@ -1,0 +1,11 @@
+{
+  "pack": "CardElements",
+  "source": "card-design-elements (itch.io)",
+  "license": "check source",
+  "style": "ui_sheets",
+  "tokenSuggestions": {
+    "ui.card.*": "ui/card_elements/<name>.png"
+  },
+  "notes": "Card frames, backgrounds, inscriptions, shaded variants. Great for card-game UIs.",
+  "sourcefile": "card-design-elements_1780343852299.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "pack": "M484ShmupSet2",
+  "source": "M484 Games Vertical Shmup Set 2 (CC0/Public Domain)",
+  "license": "CC0",
+  "nativeFrameSize": [
+    30,
+    30
+  ],
+  "renderScale": 1.0,
+  "style": "shmup_sheet",
+  "tokenSuggestions": {
+    "sheet.shmup.m484.*": "sheets/shmup/<name>.png"
+  },
+  "notes": "710\u00d7880 sheet: tanks (orange/camo), jet fighters, ground vehicles, shmup tiles. 30\u00d730 grid. CC0 \u2014 no credit required.",
+  "sourcefile": "M484VerticalShmupSet2_1780344639550.png"
+}

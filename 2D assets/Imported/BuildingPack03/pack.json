@@ -1,0 +1,32 @@
+{
+  "pack": "BuildingPack03",
+  "source": "building_pack_03_single (itch.io)",
+  "license": "check source",
+  "nativeFrameSize": [
+    128,
+    64
+  ],
+  "style": "iso_building_animated",
+  "tokenSuggestions": {
+    "tile.building.building_1.cloudy": "tiles/buildings/building_1/128x64_cloudy/*.png",
+    "tile.building.building_1.no_shadow": "tiles/buildings/building_1/128x64_no_shadow/*.png",
+    "tile.building.building_1.shaded": "tiles/buildings/building_1/128x64_shaded/*.png",
+    "tile.building.building_1.64x32_cloudy": "tiles/buildings/building_1/64x32_cloudy/*.png",
+    "tile.building.building_1.64x32_no_shadow": "tiles/buildings/building_1/64x32_no_shadow/*.png",
+    "tile.building.building_1.64x32_shaded": "tiles/buildings/building_1/64x32_shaded/*.png",
+    "tile.building.building_2.cloudy": "tiles/buildings/building_2/128x64_cloudy/*.png",
+    "tile.building.building_2.no_shadow": "tiles/buildings/building_2/128x64_no_shadow/*.png",
+    "tile.building.building_2.shaded": "tiles/buildings/building_2/128x64_shaded/*.png",
+    "tile.building.building_2.64x32_cloudy": "tiles/buildings/building_2/64x32_cloudy/*.png",
+    "tile.building.building_2.64x32_no_shadow": "tiles/buildings/building_2/64x32_no_shadow/*.png",
+    "tile.building.building_2.64x32_shaded": "tiles/buildings/building_2/64x32_shaded/*.png",
+    "tile.building.building_3.cloudy": "tiles/buildings/building_3/128x64_cloudy/*.png",
+    "tile.building.building_3.no_shadow": "tiles/buildings/building_3/128x64_no_shadow/*.png",
+    "tile.building.building_3.shaded": "tiles/buildings/building_3/128x64_shaded/*.png",
+    "tile.building.building_3.64x32_cloudy": "tiles/buildings/building_3/64x32_cloudy/*.png",
+    "tile.building.building_3.64x32_no_shadow": "tiles/buildings/building_3/64x32_no_shadow/*.png",
+    "tile.building.building_3.64x32_shaded": "tiles/buildings/building_3/64x32_shaded/*.png"
+  },
+  "notes": "144 PNGs: isometric 128\u00d764 buildings with multiple lighting variants (cloudy, no_shadow) and 8-frame animation sequences. HIGH VALUE for iso city/town games.",
+  "sourcefile": "building_pack_03_single_1780344639551.zip"
+}
