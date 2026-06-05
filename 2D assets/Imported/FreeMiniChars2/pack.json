@@ -1,0 +1,28 @@
+{
+  "pack": "FreeMiniChars2",
+  "source": "Free Mini Characters 2",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "mini_action",
+  "directional": false,
+  "tokenSuggestions": {
+    "enemy.fish": "characters/fish/idle/east/frame00.png",
+    "player.walk.fish.0": "characters/fish/run/east/frame00.png",
+    "player.walk.fish.1": "characters/fish/run/east/frame01.png",
+    "player.walk.fish.2": "characters/fish/run/east/frame02.png",
+    "enemy.white": "characters/white/idle/east/frame00.png",
+    "player.walk.white.0": "characters/white/run/east/frame00.png",
+    "player.walk.white.1": "characters/white/run/east/frame01.png",
+    "player.walk.white.2": "characters/white/run/east/frame02.png",
+    "enemy.yellow": "characters/yellow/idle/east/frame00.png",
+    "player.walk.yellow.0": "characters/yellow/run/east/frame00.png",
+    "player.walk.yellow.1": "characters/yellow/run/east/frame01.png",
+    "player.walk.yellow.2": "characters/yellow/run/east/frame02.png"
+  },
+  "notes": "3 mini characters (Fish, White, Yellow) with Attack, Hit, Idle, Jump, Projectile, Run strips. Each PNG is a horizontal strip (2\u20134 frames) at 64px frame height.",
+  "sourcefile": "Free Mini Characters 2.zip"
+}

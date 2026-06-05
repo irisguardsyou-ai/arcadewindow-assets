@@ -1,0 +1,26 @@
+{
+  "pack": "SmithChar",
+  "source": "SMITH character action strips",
+  "license": "check source",
+  "nativeFrameSize": [
+    258,
+    258
+  ],
+  "renderScale": 0.28,
+  "style": "high_res_action_character",
+  "directional": false,
+  "tokenSuggestions": {
+    "player.smith": "characters/smith/idle/east/frame00.png",
+    "player.walk.smith.0": "characters/smith/walk/east/frame00.png",
+    "player.walk.smith.1": "characters/smith/walk/east/frame01.png",
+    "player.walk.smith.2": "characters/smith/walk/east/frame02.png",
+    "player.walk.smith.3": "characters/smith/walk/east/frame03.png",
+    "player.walk.smith.4": "characters/smith/walk/east/frame04.png",
+    "player.walk.smith.5": "characters/smith/walk/east/frame05.png",
+    "player.walk.smith.6": "characters/smith/walk/east/frame06.png",
+    "player.walk.smith.7": "characters/smith/walk/east/frame07.png",
+    "sheet.smith.all": "characters/smith/sheets/all_frames.png"
+  },
+  "notes": "6 action strips \u00d7 30 frames of 258\u00d7258. IDLE, WALK, RUN, JUMP, DIE, PUNCH. renderScale 0.28 \u2192 ~72px display height.",
+  "sourcefile": "SMITH_DIE.png + SMITH_IDLE_NEW.png + SMITH_JUMP.png + SMITH_PUNCH.png + SMITH_RUN.png + SMITH_WALK.png + SMITTH_ALL_FRAMES.png"
+}

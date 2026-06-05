@@ -1,0 +1,16 @@
+{
+  "pack": "ModernAnim48",
+  "source": "modern animation.zip (LimeZu/itch.io)",
+  "license": "CC0 / check source",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "modern_animated_objects",
+  "tokenSuggestions": {
+    "tile.modern_anim.*": "tiles/modern_anim/<name>.png"
+  },
+  "notes": "309 animated object PNG strips (48\u00d748): doors, TVs, appliances, Christmas decorations, beach objects, etc. Each PNG is a multi-frame strip.",
+  "sourcefile": "modern animation.zip"
+}

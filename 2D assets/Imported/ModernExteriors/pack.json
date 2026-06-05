@@ -1,0 +1,16 @@
+{
+  "pack": "ModernExteriors",
+  "source": "Modern Exteriors RPG Maker MV v42.3",
+  "license": "check source",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "rpg_maker_exterior",
+  "tokenSuggestions": {
+    "tile.modern_ext.*": "tiles/modern_ext/<subfolder>/<name>.png"
+  },
+  "notes": "205 PNGs: A2 floors, A4 walls, Tileset B-E + Animations. RPG Maker MV/MZ exterior tileset. Modern city/suburban aesthetic.",
+  "sourcefile": "Modern_Exteriors_RPG_Maker_MV_v42.3.zip"
+}

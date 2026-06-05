@@ -1,0 +1,25 @@
+{
+  "pack": "SpriteChar",
+  "source": "Unnamed character strips (DIE/IDLE/JUMP/RUN/WALKING)",
+  "license": "check source",
+  "nativeFrameSize": [
+    258,
+    258
+  ],
+  "renderScale": 0.28,
+  "style": "high_res_action_character",
+  "directional": false,
+  "tokenSuggestions": {
+    "player.spritechar": "characters/spritechar/idle/east/frame00.png",
+    "player.walk.spritechar.0": "characters/spritechar/walk/east/frame00.png",
+    "player.walk.spritechar.1": "characters/spritechar/walk/east/frame01.png",
+    "player.walk.spritechar.2": "characters/spritechar/walk/east/frame02.png",
+    "player.walk.spritechar.3": "characters/spritechar/walk/east/frame03.png",
+    "player.walk.spritechar.4": "characters/spritechar/walk/east/frame04.png",
+    "player.walk.spritechar.5": "characters/spritechar/walk/east/frame05.png",
+    "player.walk.spritechar.6": "characters/spritechar/walk/east/frame06.png",
+    "player.walk.spritechar.7": "characters/spritechar/walk/east/frame07.png"
+  },
+  "notes": "5 action strips \u00d7 30 frames of 258\u00d7258. Same format as SMITH. IDLE, WALK (WALKING), RUN, JUMP, DIE. Likely from mp_character_animation_asset_pack.",
+  "sourcefile": "DIE.png + IDLE.png + JUMP.png + RUN.png + WALKING.png"
+}

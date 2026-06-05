@@ -1,0 +1,11 @@
+{
+  "pack": "AnimatedObjects3",
+  "source": "3 Animated Objects (LimeZu/itch.io)",
+  "license": "CC0 / check source",
+  "style": "animated_objects_multi_size",
+  "tokenSuggestions": {
+    "tile.anim_obj.*": "tiles/anim_objects/<size>/<name>.png"
+  },
+  "notes": "621 PNG animation strips: 16\u00d716, 24\u00d724, 48\u00d748 sizes. Interior/exterior animated objects (TVs, fridges, doors, etc.).",
+  "sourcefile": "3_Animated_objects.zip"
+}

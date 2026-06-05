@@ -1,0 +1,18 @@
+{
+  "pack": "HomeDesigns6",
+  "source": "6 Home Designs (LimeZu/itch.io)",
+  "license": "CC0 / check source",
+  "style": "rpg_map_design",
+  "tokenSuggestions": {
+    "map.home.condominium_designs": "maps/home_designs/condominium_designs/<size>/<name>.png",
+    "map.home.generic_home_designs": "maps/home_designs/generic_home_designs/<size>/<name>.png",
+    "map.home.gym_designs": "maps/home_designs/gym_designs/<size>/<name>.png",
+    "map.home.ice_cream_shop_designs": "maps/home_designs/ice_cream_shop_designs/<size>/<name>.png",
+    "map.home.japanese_interiors_home_designs": "maps/home_designs/japanese_interiors_home_designs/<size>/<name>.png",
+    "map.home.museum_designs": "maps/home_designs/museum_designs/<size>/<name>.png",
+    "map.home.shooting_range_designs": "maps/home_designs/shooting_range_designs/<size>/<name>.png",
+    "map.home.tv_studio_designs": "maps/home_designs/tv_studio_designs/<size>/<name>.png"
+  },
+  "notes": "132 layered home design maps (16\u00d716, 32\u00d732, 48\u00d748). Condominiums, Generic homes. Layer 1 + Layer 2 + preview per design.",
+  "sourcefile": "6_Home_Designs.zip"
+}

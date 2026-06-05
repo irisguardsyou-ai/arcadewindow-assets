@@ -1,0 +1,19 @@
+{
+  "pack": "Sprites3Chars",
+  "source": "sprites.zip (archer, swordsman, villager)",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "rpg_character_sheet",
+  "directional": true,
+  "tokenSuggestions": {
+    "sheet.char.archer": "sheets/chars/archer.png",
+    "sheet.char.swordsman": "sheets/chars/swordsman.png",
+    "sheet.char.villager": "sheets/chars/villager.png"
+  },
+  "notes": "3 character spritesheets (448\u00d7256 each): archer, swordsman, villager. Likely 7\u00d74 grid of 64\u00d764 (4 directions \u00d7 7 anims). Stored as full sheets.",
+  "sourcefile": "sprites.zip"
+}

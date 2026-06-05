@@ -1,0 +1,22 @@
+{
+  "pack": "AnimatedTerrains48",
+  "source": "Animated Terrains 48\u00d748",
+  "license": "CC0 / check source",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "animated_water_tileset",
+  "tokenSuggestions": {
+    "tile.sea": "tiles/water/Sea_Water_Tileset_48x48.png",
+    "tile.sea.basic": "tiles/water/Sea_Water_Tileset_No_Sand_Basic_48x48.png",
+    "tile.sea.diag": "tiles/water/Sea_Water_Tileset_No_Sand_Diagonals_48x48.png",
+    "tile.sea.outer": "tiles/water/Sea_Water_Tileset_Outer_Corners_48x48.png",
+    "tile.water": "tiles/water/Water_Tileset_48x48.png",
+    "tile.water.diag": "tiles/water/Water_Tileset_Diagonals_48x48.png",
+    "tile.water.outer": "tiles/water/Water_Tileset_Outer_Corners_48x48.png"
+  },
+  "notes": "Sea and water animated tileset sheets (48\u00d748): Sea_Water (6 variants), Water (3 variants). Compatible with RPG Maker MV/MZ A1/A2 autotile format.",
+  "sourcefile": "Animated_Terrains_48x48.zip"
+}

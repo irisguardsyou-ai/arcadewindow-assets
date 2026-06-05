@@ -1,0 +1,33 @@
+{
+  "pack": "FantasyBattlersFree",
+  "source": "Fantasy Battlers (RPG battle sprites)",
+  "license": "check source",
+  "renderScale": 1.0,
+  "style": "rpg_battler",
+  "tokenSuggestions": {
+    "char.battler.01": "characters/battlers/FantasyBattlersFree/01.png",
+    "char.battler.01b": "characters/battlers/FantasyBattlersFree/01b.png",
+    "char.battler.02": "characters/battlers/FantasyBattlersFree/02.png",
+    "char.battler.02b": "characters/battlers/FantasyBattlersFree/02b.png",
+    "char.battler.03": "characters/battlers/FantasyBattlersFree/03.png",
+    "char.battler.03b": "characters/battlers/FantasyBattlersFree/03b.png",
+    "char.battler.04": "characters/battlers/FantasyBattlersFree/04.png",
+    "char.battler.04b": "characters/battlers/FantasyBattlersFree/04b.png",
+    "char.battler.05": "characters/battlers/FantasyBattlersFree/05.png",
+    "char.battler.05b": "characters/battlers/FantasyBattlersFree/05b.png",
+    "char.battler.06": "characters/battlers/FantasyBattlersFree/06.png",
+    "char.battler.06b": "characters/battlers/FantasyBattlersFree/06b.png",
+    "char.battler.07": "characters/battlers/FantasyBattlersFree/07.png",
+    "char.battler.07b": "characters/battlers/FantasyBattlersFree/07b.png",
+    "char.battler.08": "characters/battlers/FantasyBattlersFree/08.png",
+    "char.battler.08b": "characters/battlers/FantasyBattlersFree/08b.png",
+    "char.battler.09": "characters/battlers/FantasyBattlersFree/09.png",
+    "char.battler.09b": "characters/battlers/FantasyBattlersFree/09b.png",
+    "char.battler.10": "characters/battlers/FantasyBattlersFree/10.png",
+    "char.battler.10b": "characters/battlers/FantasyBattlersFree/10b.png",
+    "char.battler.11": "characters/battlers/FantasyBattlersFree/11.png",
+    "char.battler.11b": "characters/battlers/FantasyBattlersFree/11b.png"
+  },
+  "notes": "44 RPG battle character sprites. Full-body characters for turn-based battle scenes. Variants: normal (01.png), back (01b.png), b&w (01bw.png), shadow (01s.png).",
+  "sourcefile": "Fantasy Battlers - Free.zip"
+}

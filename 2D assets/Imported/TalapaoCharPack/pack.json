@@ -1,0 +1,19 @@
+{
+  "pack": "TalapaoCharPack",
+  "source": "Talapao Character Pack",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "rpg_character_sheet",
+  "tokenSuggestions": {
+    "tile.talapao.64_64": "characters/talapao/sheet_64x64.png",
+    "player.talapao": "characters/talapao/sheet_64x64.png",
+    "tile.talapao.32_32": "characters/talapao/sheet_32x32.png",
+    "tile.talapao.16_16": "characters/talapao/sheet_16x16.png"
+  },
+  "notes": "Character sheet at 16\u00d716, 32\u00d732, 64\u00d764. Layout: 8 cols \u00d7 15 rows. Multiple directions and animations on one sheet.",
+  "sourcefile": "TalapaoCharacterPack.zip"
+}

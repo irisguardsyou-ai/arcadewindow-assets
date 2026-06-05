@@ -1,0 +1,16 @@
+{
+  "pack": "AnimEnvAnimrocks",
+  "source": "anim_rocks animated environment objects (GIFs)",
+  "license": "CC0 / check source",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "animated_environment_gifs",
+  "tokenSuggestions": {
+    "tile.anim_env.anim_rocks.*": "tiles/anim_env/anim_rocks/<name>.png"
+  },
+  "notes": "129 animated environment objects (GIF frame-0 extracted as PNG). Pack: anim_rocks. Includes doors, water features, vehicles, props.",
+  "sourcefile": "New folder (2).zip"
+}

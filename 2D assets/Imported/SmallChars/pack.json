@@ -1,0 +1,15 @@
+{
+  "pack": "SmallChars",
+  "source": "small_Frames reference strip",
+  "license": "check source",
+  "nativeSize": [
+    1935,
+    325
+  ],
+  "style": "character_frame_reference",
+  "tokenSuggestions": {
+    "sheet.small_chars.ref": "sheets/reference/small_frames.png"
+  },
+  "notes": "1935\u00d7325 small character frame strip reference.",
+  "sourcefile": "small_Frames.png"
+}

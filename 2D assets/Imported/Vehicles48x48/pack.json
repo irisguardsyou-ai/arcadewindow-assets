@@ -1,0 +1,22 @@
+{
+  "pack": "Vehicles48x48",
+  "source": "Vehicles 48\u00d748 pack",
+  "license": "check source",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "top_down_vehicles",
+  "tokenSuggestions": {
+    "tile.vehicle.buses": "tiles/vehicles/buses/Buses_48x48_1.png",
+    "tile.vehicle.cars": "tiles/vehicles/cars/Car_2_complete_48x48_1.png",
+    "tile.vehicle.vehicles": "tiles/vehicles/vehicles/Delivery_Truck_48x48.png",
+    "tile.vehicle.fire_truck": "tiles/vehicles/fire_truck/Fire_Truck_2_48x48.png",
+    "tile.vehicle.helicopters": "tiles/vehicles/helicopters/Helicopter_48x48.png",
+    "tile.vehicle.tanks": "tiles/vehicles/tanks/Tank_Bolt_Projectile_48x48.png",
+    "tile.vehicle.trash_truck": "tiles/vehicles/trash_truck/Trash_Truck_2_48x48.png"
+  },
+  "notes": "73 vehicle PNGs: buses, cars, delivery truck, fire truck, helicopters, tanks, trash truck. Top-down view at 48\u00d748. Each PNG is a large multi-frame sprite strip.",
+  "sourcefile": "Vehicles_48x48.zip"
+}

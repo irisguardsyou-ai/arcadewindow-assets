@@ -1,0 +1,25 @@
+{
+  "pack": "NinjaAdventure",
+  "source": "Ninja Adventure / Ninja Girl (ninja)",
+  "license": "check source",
+  "nativeFrameSize": [
+    232,
+    439
+  ],
+  "renderScale": 0.15,
+  "style": "action_platformer",
+  "directional": false,
+  "tokenSuggestions": {
+    "player.ninja": "characters/ninja/idle/east/frame00.png",
+    "player.walk.ninja.0": "characters/ninja/run/east/frame00.png",
+    "player.walk.ninja.1": "characters/ninja/run/east/frame01.png",
+    "player.walk.ninja.2": "characters/ninja/run/east/frame02.png",
+    "player.walk.ninja.3": "characters/ninja/run/east/frame03.png",
+    "player.walk.ninja.4": "characters/ninja/run/east/frame04.png",
+    "player.walk.ninja.5": "characters/ninja/run/east/frame05.png",
+    "player.walk.ninja.6": "characters/ninja/run/east/frame06.png",
+    "player.walk.ninja.7": "characters/ninja/run/east/frame07.png"
+  },
+  "notes": "91 individual frames (9 anims). East-facing ninja character 'ninja'. Attack, Dead, Idle, Jump, Jump_Attack, Jump_Throw, Run, Slide, Throw.",
+  "sourcefile": "NinjaAdventure.zip"
+}

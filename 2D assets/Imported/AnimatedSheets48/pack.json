@@ -1,0 +1,16 @@
+{
+  "pack": "AnimatedSheets48",
+  "source": "Animated Sheets 48\u00d748",
+  "license": "CC0 / check source",
+  "nativeFrameSize": [
+    48,
+    48
+  ],
+  "renderScale": 1.0,
+  "style": "animated_world_objects_strip",
+  "tokenSuggestions": {
+    "tile.anim_sheet.*": "tiles/anim_sheets/<name>_48x48.png"
+  },
+  "notes": "451 PNG animation strips (48\u00d748/frame): Beach rocks, buoys, doors, flames, firefighters, seagulls, boats, and more. Each PNG is a horizontal multi-frame strip.",
+  "sourcefile": "Animated_sheets_48x48.zip"
+}

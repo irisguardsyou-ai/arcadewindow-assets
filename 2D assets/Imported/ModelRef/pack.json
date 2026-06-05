@@ -1,0 +1,15 @@
+{
+  "pack": "ModelRef",
+  "source": "ModelSheetPNG reference",
+  "license": "check source",
+  "nativeSize": [
+    192,
+    152
+  ],
+  "style": "character_model_reference",
+  "tokenSuggestions": {
+    "sheet.model.ref": "sheets/reference/model_sheet.png"
+  },
+  "notes": "192\u00d7152 character model reference sheet.",
+  "sourcefile": "ModelSheetPNG.png"
+}

@@ -1,0 +1,30 @@
+{
+  "pack": "MpCharAnimation",
+  "source": "mp_character_animation_asset_pack v1.0",
+  "license": "check source",
+  "renderScale": 0.28,
+  "style": "modern_game_char",
+  "directional": false,
+  "tokenSuggestions": {
+    "player.walk.mp_male1.4": "characters/mp_male1/1/run/east/frame04.png",
+    "player.walk.mp_male1.3": "characters/mp_male1/1/walk/east/frame03.png",
+    "player.walk.mp_male1.2": "characters/mp_male1/1/walk/east/frame02.png",
+    "player.walk.mp_male1.5": "characters/mp_male1/1/run/east/frame05.png",
+    "player.walk.mp_male1.7": "characters/mp_male1/1/run/east/frame07.png",
+    "player.walk.mp_male1.0": "characters/mp_male1/1/walk/east/frame00.png",
+    "player.walk.mp_male1.1": "characters/mp_male1/1/walk/east/frame01.png",
+    "player.walk.mp_male1.6": "characters/mp_male1/1/run/east/frame06.png",
+    "player.mp_male1": "characters/mp_male1/1/idle/east/frame00.png",
+    "player.walk.mp_female1.0": "characters/mp_female1/1/walk/east/frame00.png",
+    "player.walk.mp_female1.1": "characters/mp_female1/1/walk/east/frame01.png",
+    "player.walk.mp_female1.3": "characters/mp_female1/1/walk/east/frame03.png",
+    "player.walk.mp_female1.2": "characters/mp_female1/1/walk/east/frame02.png",
+    "player.walk.mp_female1.6": "characters/mp_female1/1/walk/east/frame06.png",
+    "player.walk.mp_female1.7": "characters/mp_female1/1/walk/east/frame07.png",
+    "player.walk.mp_female1.5": "characters/mp_female1/1/walk/east/frame05.png",
+    "player.walk.mp_female1.4": "characters/mp_female1/1/walk/east/frame04.png",
+    "player.mp_female1": "characters/mp_female1/1/idle/east/frame00.png"
+  },
+  "notes": "4776 PNGs: Female\u00d73 + Male\u00d73 variants \u00d7 4 outfit options \u00d7 15 animations. Primary tokens: mp_female1 and mp_male1 (Clothes 1). Anims: climb, damage, death, fall, idle, jump, land, pickup, punch, run, talk, use, wait, walk.",
+  "sourcefile": "mp_character_animation_asset_pack_v1.0.zip"
+}

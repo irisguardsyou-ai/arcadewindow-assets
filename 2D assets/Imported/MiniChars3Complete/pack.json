@@ -1,0 +1,25 @@
+{
+  "pack": "MiniChars3Complete",
+  "source": "Mini Characters 3 (Legnops/itch.io)",
+  "license": "check source",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "renderScale": 1.0,
+  "style": "mini_action",
+  "directional": false,
+  "tokenSuggestions": {
+    "enemy.bandit": "characters/bandit/idle/east/frame00.png",
+    "player.walk.bandit.0": "characters/bandit/run/east/frame00.png",
+    "player.walk.bandit.1": "characters/bandit/run/east/frame01.png",
+    "player.walk.bandit.2": "characters/bandit/run/east/frame02.png",
+    "enemy.karateblue": "characters/karateblue/idle/east/frame00.png",
+    "player.walk.karateblue.0": "characters/karateblue/run/east/frame00.png",
+    "player.walk.karateblue.1": "characters/karateblue/run/east/frame01.png",
+    "player.walk.karateblue.2": "characters/karateblue/run/east/frame02.png",
+    "enemy.totem": "characters/totem/idle/east/frame00.png"
+  },
+  "notes": "Mini character action strips (64\u00d764 frames). Characters: bandit, karateblue, sprout, totem.",
+  "sourcefile": "Mini Characters 3_Complete.zip"
+}

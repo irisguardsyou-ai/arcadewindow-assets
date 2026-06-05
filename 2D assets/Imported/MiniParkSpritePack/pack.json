@@ -1,0 +1,15 @@
+{
+  "pack": "MiniParkSpritePack",
+  "source": "Mini Park Sprite Pack",
+  "license": "check source",
+  "style": "park_props",
+  "tokenSuggestions": {
+    "tile.park.sheet": "tiles/park/MiniPark.png",
+    "tile.park.bush": "tiles/park/Bush.png",
+    "tile.park.grass1": "tiles/park/Grass1.png",
+    "tile.park.grass2": "tiles/park/Grass2.png",
+    "tile.park.tree": "tiles/park/Tree.png"
+  },
+  "notes": "5 simple park props: Bush, Grass\u00d72, Tree, full Park reference sheet.",
+  "sourcefile": "MiniParkSpritePack.zip"
+}

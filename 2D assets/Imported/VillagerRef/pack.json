@@ -1,0 +1,15 @@
+{
+  "pack": "VillagerRef",
+  "source": "VillagersSheetPNG reference sheet",
+  "license": "check source",
+  "nativeSize": [
+    1516,
+    810
+  ],
+  "style": "rpg_character_reference",
+  "tokenSuggestions": {
+    "sheet.villagers.ref": "sheets/reference/villagers.png"
+  },
+  "notes": "1516\u00d7810 villager character reference sheet.",
+  "sourcefile": "VillagersSheetPNG.png"
+}
